@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/NickTalvy/single-price-grid-component-master)
+- Live Site URL: [My Solution](https://nicktalvy.github.io/single-price-grid-component-master/)
 
 ## My process
 
